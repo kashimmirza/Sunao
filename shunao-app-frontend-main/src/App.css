@@ -1,0 +1,6 @@
+.bg-custom {
+  background-color: rgb(224, 225, 211);
+  /* background-color: rgb(214, 213, 232); */
+  width: 100%;
+  min-height: 100vh;
+}
